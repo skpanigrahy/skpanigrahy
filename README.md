@@ -1,7 +1,2 @@
-🔭 Senior Associate at JPMC || Kubernetes || Cloud Computing || AI/ML || Enthusiast to ... As a Code Pattern
+Helping Building Skills - Kubernetes, Cloud Computing, AI/ML, SRE, Automation and DevOps.
 
-
-<!--
-**skpanigrahy/skpanigrahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
