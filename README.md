@@ -18,6 +18,7 @@ I’m a passionate software engineer who thrives on solving real-world problems 
 - **Cloud Computing**
 - **Automation**
 - **System Design**
+- **DevOps and SRE Practices**
 
 I enjoy sharing my knowledge through **projects**, **training**, and **technical articles** to help others gain hands-on experience and insights in these areas.
 
