@@ -2,9 +2,11 @@
 
 ## 👋 Hello, I'm Santosh Kumar Panigrahy (a.k.a **skpanigrahy**)
 
-### 🚀 **Software Engineer** | **Problem Solver** | **Technology Enthusiast** | **Content Creator** | **Consultant** | **Singer**  
+### 🚀 **Software Engineer** | **Life Coach** | **Problem Solver** | **Technology Enthusiast** | **Content Creator** | **Consultant** | **Singer**
 
-I’m a passionate software engineer who thrives on solving real-world problems using the right tools. In addition to my technical skills, I am also dedicated to helping others grow both **professionally and personally**. Through my experiences as a **trainer**, **consultant**, **content writer**, and **singer**, I’ve been able to bring a creative and well-rounded approach to everything I do.
+I am a passionate software engineer with a strong focus on using technology to solve complex challenges. Beyond my technical work, I am also a **Life Coach**, helping individuals and professionals grow holistically. Whether it's navigating career decisions, personal growth, or improving interpersonal skills, I’m dedicated to supporting others in their journey.
+
+I also contribute to the tech community as a **consultant**, **content writer**, and **singer**, bringing a creative and multifaceted approach to everything I do.
 
 ---
 
@@ -18,43 +20,35 @@ I’m a passionate software engineer who thrives on solving real-world problems 
 - **Cloud Computing**
 - **Automation**
 - **System Design**
-- **DevOps and SRE Practices**
+- **DevOps**
+- **Site Reliability Engineering (SRE)**
 
-I enjoy sharing my knowledge through **projects**, **training**, and **technical articles** to help others gain hands-on experience and insights in these areas.
+I specialize in building scalable systems, automating workflows, and ensuring reliability and performance. I also love sharing my knowledge through **projects**, **training**, and **technical articles**.
 
 **💬 Non-Technical Skills:**
-- **Soft Skills**: Personality development, interpersonal communication, and business communication.
+- **Life Coaching**: Helping individuals achieve their personal and professional goals.
+- **Soft Skills**: Personality development, interpersonal communication, business communication, and career coaching.
 
 ---
 
 ### 🎤 **Other Interests**
 
-I am a **singer** and deeply enjoy using music as an outlet for creativity and expression.
-
-**Personality Development Trainer**: I have experience training professionals in personality development, helping them refine their skills to excel in both their personal and professional lives.
-
-**Consultant**: I offer consultancy services to help organizations implement cutting-edge technologies and optimize their processes.
-
----
-
-### 📝 **Content Creation & Writing**
-
-I regularly contribute **technical articles** on **Medium** where I discuss topics ranging from AI, cloud technologies, and more. Feel free to check out my articles on my [Medium profile](https://medium.com/@god_bunu).
-
-I also run a newsletter called **The Tech Canvas**, available on **LinkedIn**, where I share the latest updates, trends, and insights on the tech industry. You can follow my newsletter here: [The Tech Canvas](https://www.linkedin.com/newsletters/7250032802820210689/).
+- **Singing**: A passionate singer who enjoys using music as an outlet for creativity and self-expression.
+- **Content Creation**: I write **technical articles** on **Medium**, discussing topics like AI, cloud technologies, and more. You can explore my work on my [Medium profile](https://medium.com/@god_bunu).
+- **Newsletter**: I run a newsletter called **The Tech Canvas** on **LinkedIn**, where I share insights on the latest trends and developments in the tech industry. Check it out here: [The Tech Canvas](https://www.linkedin.com/newsletters/7250032802820210689/).
 
 ---
 
 ### ⚙️ **My Philosophy**
 
-I believe in **problem-solving** rather than getting attached to specific technologies, as they are always evolving. My focus is on **automating processes** to make them faster and error-free, ultimately saving time and allowing me to tackle more challenging problems.
+I believe in **problem-solving** rather than becoming overly attached to specific technologies, as the tech landscape is constantly evolving. I focus on **automating tasks** to make processes faster, error-free, and more efficient, ultimately allowing me to tackle more complex challenges and help others grow.
 
 ---
 
 ### 🌟 **Let’s Connect!**
 
-Explore my repositories, follow my **Medium** articles, and subscribe to **The Tech Canvas** for more insights! I'm always open to discussing new ideas, collaborating on projects, or sharing knowledge.
+Feel free to explore my repositories, read my articles, and subscribe to **The Tech Canvas** for more insights! I’m always open to collaborating, sharing knowledge, or helping you achieve your goals.
 
 ---
 
-Feel free to explore my work, connect with me, and let's build the future of technology together!
+Looking forward to connecting and building a brighter future together!
