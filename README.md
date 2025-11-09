@@ -20,8 +20,6 @@ I also contribute to the tech community as a **consultant**, **content writer**,
 - **Cloud Computing**
 - **Automation**
 - **System Design**
-- **DevOps**
-- **Site Reliability Engineering (SRE)**
 
 I specialize in building scalable systems, automating workflows, and ensuring reliability and performance. I also love sharing my knowledge through **projects**, **training**, and **technical articles**.
 
