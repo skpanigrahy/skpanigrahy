@@ -13,13 +13,14 @@ I also contribute to the tech community as a **consultant**, **content writer**,
 ### 🌱 **Skills & Expertise**
 
 **🔧 Technical Skills:**
+- **System Design**
 - **Generative AI (GenAI)**
 - **Quantum Computing**
 - **Machine Learning**
 - **Kubernetes**
 - **Cloud Computing**
 - **Automation**
-- **System Design**
+
 
 I specialize in building scalable systems, automating workflows, and ensuring reliability and performance. I also love sharing my knowledge through **projects**, **training**, and **technical articles**.
 
